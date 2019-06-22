@@ -1,0 +1,7 @@
+---
+
+domain: www.example.com
+mysql_root: mysqlroot123
+wordpress_user: wordpress
+wordpress_password: wordpress123
+wordpress_database: wordpress
